@@ -1,0 +1,6 @@
+.parcel-cache
+dist
+node_modules
+index.js
+db.js
+images

@@ -1,6 +1,6 @@
 import { rtdb } from "./rtdb";
 
-const API_BASE_URL = "https://app-apx-stone-paper-scissor.herokuapp.com";
+const API_BASE_URL = "https://desafio-apx-modulo-6.onrender.com";
 // const API_BASE_URL = "http://localhost:3000";
 
 const state = {
